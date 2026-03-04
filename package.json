@@ -1,10 +1,10 @@
 {
-  "name": "railway-api",
+  "name": "railway-sms-api",
   "version": "1.0.0",
-  "description": "Railway Deployment for SMS API",
-  "main": "index.js",
+  "author": "junaidniz",
+  "main": "api/junaid.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node api/junaid.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
