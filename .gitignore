@@ -1,0 +1,14 @@
+# Dependency directory (Ye folder GitHub par nahi jana chahiye)
+node_modules/
+
+# Environment variables (Agar aapne .env file banayi hai local testing ke liye)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS related files
+.DS_Store
+Thumbs.db
